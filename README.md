@@ -22,6 +22,7 @@ Make sure you have the environment variables for AWS set
 ```sh
 export AWS_ACCESS_KEY_ID=<my-access-key>
 export AWS_SECRET_ACCESS_KEY=<my-secret-key>
+export AWS_REGION=<my-region>
 ```
 
 ### sqs-dead-letter-requeue
